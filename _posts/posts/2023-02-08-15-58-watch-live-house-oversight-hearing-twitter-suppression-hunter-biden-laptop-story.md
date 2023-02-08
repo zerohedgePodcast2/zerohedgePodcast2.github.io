@@ -9,7 +9,7 @@ length: 159
 datetime: Wed, 08 Feb 2023 15:58:00 +0000
 tags: podcast
 guid: watch-live-house-oversight-hearing-twitter-suppression-hunter-biden-laptop-story-0
-order: 2
+order: 0
 ---
 A full committee hearing...
 
