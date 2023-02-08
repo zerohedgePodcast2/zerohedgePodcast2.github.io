@@ -9,7 +9,7 @@ length: 312
 datetime: Wed, 08 Feb 2023 14:26:00 +0000
 tags: podcast
 guid: biden-sotu-post-mortem-inflation-inflation-inflation-tax-hikes-0
-order: 0
+order: 2
 ---
 If you are looking for more inflation, then look no further than President Biden's wish list of ideas in his state of the union address...
 
