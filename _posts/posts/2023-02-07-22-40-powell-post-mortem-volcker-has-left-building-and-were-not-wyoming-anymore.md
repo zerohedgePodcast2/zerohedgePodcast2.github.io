@@ -9,7 +9,7 @@ length: 257
 datetime: Tue, 07 Feb 2023 22:40:00 +0000
 tags: podcast
 guid: powell-post-mortem-volcker-has-left-building-and-were-not-wyoming-anymore-0
-order: 1
+order: 0
 ---
 &quot;Chair Powell appears to have embraced recent disinflationary trends and expressed optimism that it will continue&quot;
 

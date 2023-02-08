@@ -1,12 +1,12 @@
 ---
 layout: post
-title: "Turkish Stock Market Halted To Prevent Further Crash As Quake Deaths Top 11,000"
-audio: turkish-stock-market-halted-prevent-further-crash-quake-deaths-top-11000-0
+title: "Turkish Stock Market Closed For Another Week After Quake Devastation"
+audio: turkish-stock-market-halted-prevent-further-crash-quake-deaths-top-11000-1
 category: markets
 desc: "&quot;Our stock exchange has decided to halt trading in equities, futures, and options markets.&quot; "
-duration: 00:01:56
-length: 116
-datetime: Wed, 08 Feb 2023 11:55:00 +0000
+duration: 00:02:35
+length: 155
+datetime: Wed, 08 Feb 2023 14:41:00 +0000
 tags: podcast
 guid: turkish-stock-market-halted-prevent-further-crash-quake-deaths-top-11000-0
 order: 0
