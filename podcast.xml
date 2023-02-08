@@ -1,0 +1,53 @@
+---
+layout: null
+---
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>ZeroHedge Podcast</title>
+		<atom:link href="https://zerohedgepodcast.github.io/podcast" rel="self" type="application/rss+xml" />
+		<itunes:owner>
+			<itunes:email>zerohedgePodcast@outlook.com</itunes:email>
+			<itunes:name>ZeroHedge Podcast</itunes:name>
+		</itunes:owner>
+		<itunes:author>ZeroHedge Podcast</itunes:author>
+		<description>
+			&lt;p&gt;An automated podcast turning ZeroHedge articles into audio format.&lt;/p&gt;
+			&lt;p&gt;tags: Zerohedge, Zero Hedge, News, Daily News, World News, Crypto, Gold, Silver, Money, Politics&lt;/p&gt;
+		</description>
+		<itunes:image href="https://zerohedgepodcast.github.io/assets/img/zerohedge_icon_400x400.jpg"/>
+		<language>en-us</language>
+		<link>https://zerohedgepodcast.github.io/podcast.xml</link>
+		<itunes:type>episodic</itunes:type>
+		<itunes:category text="News">
+			<itunes:category text="Business News"/>
+			<itunes:category text="Daily News"/>
+			<itunes:category text="News Commentary"/>
+			<itunes:category text="Politics"/>
+		</itunes:category>
+		<itunes:category text="Business">
+			<itunes:category text="Investing"/>
+		</itunes:category>
+		<itunes:category text="Government">
+		</itunes:category>
+		<itunes:explicit>no</itunes:explicit>
+		{% for post in site.tags.podcast %}
+		<item>
+			<title>{{ post.title }}</title>
+			<dc:creator>ZeroHedge Podcast</dc:creator>
+			<description>{{ post.content | xml_escape }}</description>
+			<pubDate>{{ post.datetime }}</pubDate>
+			<enclosure url="https://zerohedgepodcast.github.io/assets/audio/{{ post.audio }}.mp3"
+				type="audio/mpeg" length="{{ post.length }}"/>
+			<guid isPermaLink="false">{{ post.audio }}</guid>
+			{% if post.order > 0 %}
+				<itunes:order> {{post.order}} </itunes:order>
+			{% endif %}
+		</item>
+		{% endfor %}
+	</channel>
+</rss>

@@ -1,0 +1,7 @@
+highlighter: rouge
+plugins:
+  - jekyll-feed
+title: ZeroHedge Podcast
+description: Welcome to the Matrix
+author: ZeroHedge Podcast
+permalink: /:categories/:year/:month/:day/:title:output_ext
