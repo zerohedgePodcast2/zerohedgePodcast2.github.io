@@ -1,17 +1,17 @@
 ---
 layout: post
-title: "Watch Live: House Oversight Hearing On Twitter Suppression Of Hunter Biden Laptop Story"
-audio: watch-live-house-oversight-hearing-twitter-suppression-hunter-biden-laptop-story-0
+title: "MTG Rips Ex-Twitter Execs New Cloaca As AOC Melts Down With Hysterical Lies"
+audio: watch-live-house-oversight-hearing-twitter-suppression-hunter-biden-laptop-story-1
 category: political
-desc: "A full committee hearing..."
-duration: 00:02:39
-length: 159
-datetime: Wed, 08 Feb 2023 15:58:00 +0000
+desc: "&quot;You permanently banned my Twitter account but you allowed child porn all over Twitter...&quot;"
+duration: 00:05:02
+length: 302
+datetime: Wed, 08 Feb 2023 18:12:00 +0000
 tags: podcast
 guid: watch-live-house-oversight-hearing-twitter-suppression-hunter-biden-laptop-story-0
 order: 0
 ---
-A full committee hearing...
+&quot;You permanently banned my Twitter account but you allowed child porn all over Twitter...&quot;
 
 Link: [https://www.zerohedge.com/political/watch-live-house-oversight-hearing-twitter-suppression-hunter-biden-laptop-story](https://www.zerohedge.com/political/watch-live-house-oversight-hearing-twitter-suppression-hunter-biden-laptop-story)
 
