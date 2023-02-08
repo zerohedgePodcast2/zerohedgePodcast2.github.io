@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "higher for longer again?"
-audio: hfs-selling-energy-0-1
+audio: hfs-selling-energy-0-2
 category: the-market-ear
 desc: 
 duration: 00:03:21
