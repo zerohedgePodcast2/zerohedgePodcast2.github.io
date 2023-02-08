@@ -1,12 +1,12 @@
 ---
 layout: post
-title: "Google Shares Tumble After 'Bard' AI Glitch"
-audio: google-shares-tumble-after-bard-ai-glitch-0
+title: "Alphabet Loses Over $110 Billion Market Cap After AI ChatBot 'Glitch'"
+audio: google-shares-tumble-after-bard-ai-glitch-1
 category: markets
 desc: "It seems the AI is more A than I for now..."
-duration: 00:02:16
-length: 136
-datetime: Wed, 08 Feb 2023 14:04:00 +0000
+duration: 00:03:05
+length: 185
+datetime: Wed, 08 Feb 2023 16:32:00 +0000
 tags: podcast
 guid: google-shares-tumble-after-bard-ai-glitch-0
 order: 0
