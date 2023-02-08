@@ -1,17 +1,17 @@
 ---
 layout: post
-title: "UK Pledges Fighter Pilot Training For Ukraine During Zelensky Surprise Visit"
-audio: uk-pledges-fighter-pilot-training-ukraine-zelensky-surprise-visit-0
+title: "Russia Warns Of &quot;Consequences For Entire World&quot; If UK Sends Jets To Ukraine"
+audio: uk-pledges-fighter-pilot-training-ukraine-zelensky-surprise-visit-1
 category: geopolitical
-desc: "Zelensky met with PM Sunak and King Charles while pleading for &quot;powerful English planes&quot;..."
-duration: 00:02:43
-length: 163
-datetime: Wed, 08 Feb 2023 18:04:00 +0000
+desc: "Zelensky pushed hard for Typhoon jets during Wednesday visit... "
+duration: 00:04:04
+length: 244
+datetime: Wed, 08 Feb 2023 19:10:00 +0000
 tags: podcast
 guid: uk-pledges-fighter-pilot-training-ukraine-zelensky-surprise-visit-0
 order: 0
 ---
-Zelensky met with PM Sunak and King Charles while pleading for &quot;powerful English planes&quot;...
+Zelensky pushed hard for Typhoon jets during Wednesday visit... 
 
 Link: [https://www.zerohedge.com/geopolitical/uk-pledges-fighter-pilot-training-ukraine-zelensky-surprise-visit](https://www.zerohedge.com/geopolitical/uk-pledges-fighter-pilot-training-ukraine-zelensky-surprise-visit)
 

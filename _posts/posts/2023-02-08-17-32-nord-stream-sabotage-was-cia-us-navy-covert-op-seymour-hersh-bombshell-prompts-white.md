@@ -9,7 +9,7 @@ length: 422
 datetime: Wed, 08 Feb 2023 17:32:00 +0000
 tags: podcast
 guid: nord-stream-sabotage-was-cia-us-navy-covert-op-seymour-hersh-bombshell-prompts-white-0
-order: 2
+order: 1
 ---
 Throughout &quot;all of this scheming,&quot; the source said, &quot;some working guys in the CIA &amp; State Department were saying, 'Don't do this. It's stupid and will be a political nightmare if it comes out.'&quot;
 

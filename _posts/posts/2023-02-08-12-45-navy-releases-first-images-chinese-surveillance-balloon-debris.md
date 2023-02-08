@@ -9,7 +9,7 @@ length: 94
 datetime: Wed, 08 Feb 2023 12:45:00 +0000
 tags: podcast
 guid: navy-releases-first-images-chinese-surveillance-balloon-debris-0
-order: 1
+order: 0
 ---
 &quot;From a safety standpoint, picture yourself with large debris weighing hundreds if not thousands of pounds falling out of the sky.&quot; 
 
