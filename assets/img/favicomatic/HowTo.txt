@@ -1,0 +1,7 @@
+Go to https://favicomatic.com
+
+Upload your image and select the basic option.
+
+Replace the images in assets/img/
+
+Rebuild site
