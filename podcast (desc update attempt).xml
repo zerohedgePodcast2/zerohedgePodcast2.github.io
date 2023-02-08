@@ -9,7 +9,7 @@ layout: null
 	xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
 		<title>ZeroHedge Podcast</title>
-		<atom:link href="https://zerohedgepodcast.github.io/podcast" rel="self" type="application/rss+xml" />
+		<atom:link href="https://zerohedgepodcast2.github.io/podcast" rel="self" type="application/rss+xml" />
 		<itunes:owner>
 			<itunes:email>zerohedgePodcast@outlook.com</itunes:email>
 			<itunes:name>ZeroHedge Podcast</itunes:name>
@@ -19,9 +19,9 @@ layout: null
 			<p>An automated podcast turning ZeroHedge articles into audio format.</p>
 			<p>tags: Zerohedge, Zero Hedge, News, Daily News, World News, Crypto, Gold, Silver, Money, Politics</p>
 		</description>
-		<itunes:image href="https://zerohedgepodcast.github.io/assets/img/zerohedge_icon_400x400.jpg"/>
+		<itunes:image href="https://zerohedgepodcast2.github.io/assets/img/zerohedge_icon_400x400.jpg"/>
 		<language>en-us</language>
-		<link>https://zerohedgepodcast.github.io/</link>
+		<link>https://zerohedgepodcast2.github.io/</link>
 		<itunes:type>serial</itunes:type>
 		<itunes:category text="News">
 		<itunes:category text="Daily News"/>
@@ -34,7 +34,7 @@ layout: null
 			<dc:creator>ZeroHedge Podcast</dc:creator>
 			<description>{{ post.content | xml_escape }}</description>
 			<pubDate>{{ post.datetime }}</pubDate>
-			<enclosure url="https://zerohedgepodcast.github.io/assets/audio/{{ post.audio }}.mp3"
+			<enclosure url="https://zerohedgepodcast2.github.io/assets/audio/{{ post.audio }}.mp3"
 				type="audio/mpeg" length="{{ post.length }}"/>
 			<guid isPermaLink="false">{{ post.audio }}</guid>
 		</item>
