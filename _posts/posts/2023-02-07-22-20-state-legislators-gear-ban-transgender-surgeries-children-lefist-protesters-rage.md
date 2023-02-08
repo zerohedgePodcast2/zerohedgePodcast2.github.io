@@ -9,7 +9,7 @@ length: 269
 datetime: Tue, 07 Feb 2023 22:20:00 +0000
 tags: podcast
 guid: state-legislators-gear-ban-transgender-surgeries-children-lefist-protesters-rage-0
-order: 0
+order: 1
 ---
 Should states allow the potentially permanent mutilation or chemical castration of kids who have not even fully developed their brains or emotional maturity?
 

@@ -9,7 +9,7 @@ length: 423
 datetime: Wed, 08 Feb 2023 01:50:00 +0000
 tags: podcast
 guid: biden-sotu-speech-tonight-heres-what-hes-likely-read-0
-order: 2
+order: 0
 ---
 &quot;This is an impossible speech to give...&quot;
 

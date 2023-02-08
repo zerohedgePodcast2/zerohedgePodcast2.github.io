@@ -1,15 +1,15 @@
 ---
 layout: post
 title: "NORAD Pleads Incompetence Over Failure To Spot Trump-Era Chinese Spy Balloons"
-audio: norad-pleads-incompetence-over-failure-spot-trump-era-chinese-spy-balloons-0
+audio: norad-pleads-incompetence-over-failure-spot-trump-era-chinese-spy-balloons-1
 category: markets
 desc: "A &quot;domain awareness gap.&quot;"
 duration: 00:03:44
 length: 224
-datetime: Tue, 07 Feb 2023 11:55:00 +0000
+datetime: Wed, 08 Feb 2023 10:44:00 +0000
 tags: podcast
 guid: norad-pleads-incompetence-over-failure-spot-trump-era-chinese-spy-balloons-0
-order: 1
+order: 0
 ---
 A &quot;domain awareness gap.&quot;
 
