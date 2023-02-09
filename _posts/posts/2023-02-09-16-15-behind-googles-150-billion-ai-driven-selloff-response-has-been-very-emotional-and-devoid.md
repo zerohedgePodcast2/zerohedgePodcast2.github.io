@@ -9,7 +9,7 @@ length: 222
 datetime: Thu, 09 Feb 2023 16:15:00 +0000
 tags: podcast
 guid: behind-googles-150-billion-ai-driven-selloff-response-has-been-very-emotional-and-devoid-0
-order: 1
+order: 0
 ---
 &quot;Headlines of GOOGL's AI getting an answer wrong underscore the market's irrationality towards AI.... From a business standpoint, AI could also prove VERY deflationary, not just for tech but for society (remains to be seen).&quot;
 

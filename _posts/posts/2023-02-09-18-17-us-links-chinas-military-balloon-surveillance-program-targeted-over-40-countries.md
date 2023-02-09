@@ -1,17 +1,17 @@
 ---
 layout: post
-title: "US Links China's Military To 'Balloon Surveillance Program' That Targeted Over 40 Countries"
-audio: us-links-chinas-military-balloon-surveillance-program-targeted-over-40-countries-0
+title: "FBI Says Possible 'Criminal Charges' Over Chinese Balloon Components"
+audio: us-links-chinas-military-balloon-surveillance-program-targeted-over-40-countries-1
 category: geopolitical
-desc: "US officials say recovered balloon had antennas &amp; other intel-gathering equipment... "
-duration: 00:03:40
-length: 220
-datetime: Thu, 09 Feb 2023 16:55:00 +0000
+desc: "Though still less than a smoking gun: &quot;could be used for intelligence&quot;  "
+duration: 00:06:20
+length: 380
+datetime: Thu, 09 Feb 2023 18:17:00 +0000
 tags: podcast
 guid: us-links-chinas-military-balloon-surveillance-program-targeted-over-40-countries-0
-order: 2
+order: 1
 ---
-US officials say recovered balloon had antennas &amp; other intel-gathering equipment... 
+Though still less than a smoking gun: &quot;could be used for intelligence&quot;  
 
 Link: [https://www.zerohedge.com/geopolitical/us-links-chinas-military-balloon-surveillance-program-targeted-over-40-countries](https://www.zerohedge.com/geopolitical/us-links-chinas-military-balloon-surveillance-program-targeted-over-40-countries)
 
