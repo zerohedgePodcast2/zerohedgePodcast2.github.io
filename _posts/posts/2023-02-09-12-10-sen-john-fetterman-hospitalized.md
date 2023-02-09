@@ -9,7 +9,7 @@ length: 117
 datetime: Thu, 09 Feb 2023 12:10:00 +0000
 tags: podcast
 guid: sen-john-fetterman-hospitalized-0
-order: 0
+order: 2
 ---
 &quot;Initial tests did not show evidence of a new stroke, but doctors are running more tests and John is remaining overnight for observation.&quot;
 
