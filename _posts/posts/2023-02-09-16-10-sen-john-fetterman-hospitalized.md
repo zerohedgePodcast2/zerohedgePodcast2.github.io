@@ -1,15 +1,15 @@
 ---
 layout: post
 title: "Senator John Fetterman Hospitalized "
-audio: sen-john-fetterman-hospitalized-0
+audio: sen-john-fetterman-hospitalized-1
 category: markets
 desc: "&quot;Initial tests did not show evidence of a new stroke, but doctors are running more tests and John is remaining overnight for observation.&quot;"
 duration: 00:01:57
 length: 117
-datetime: Thu, 09 Feb 2023 12:10:00 +0000
+datetime: Thu, 09 Feb 2023 16:10:00 +0000
 tags: podcast
 guid: sen-john-fetterman-hospitalized-0
-order: 1
+order: 0
 ---
 &quot;Initial tests did not show evidence of a new stroke, but doctors are running more tests and John is remaining overnight for observation.&quot;
 
