@@ -1,15 +1,15 @@
 ---
 layout: post
 title: "No Matter How You Turn It, The Global System Is Already Doomed: Got Gold?"
-audio: no-matter-how-you-turn-it-global-system-already-doomed-got-gold-0
+audio: no-matter-how-you-turn-it-global-system-already-doomed-got-gold-1
 category: commodities
 desc: "Strong dollar or weak dollar, no one wins..."
 duration: 00:11:50
 length: 710
-datetime: Fri, 10 Feb 2023 11:30:00 +0000
+datetime: Fri, 10 Feb 2023 13:30:00 +0000
 tags: podcast
 guid: no-matter-how-you-turn-it-global-system-already-doomed-got-gold-0
-order: 1
+order: 0
 ---
 Strong dollar or weak dollar, no one wins...
 
