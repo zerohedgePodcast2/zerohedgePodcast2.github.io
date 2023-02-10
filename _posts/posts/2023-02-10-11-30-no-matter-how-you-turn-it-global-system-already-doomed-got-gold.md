@@ -9,7 +9,7 @@ length: 710
 datetime: Fri, 10 Feb 2023 11:30:00 +0000
 tags: podcast
 guid: no-matter-how-you-turn-it-global-system-already-doomed-got-gold-0
-order: 0
+order: 1
 ---
 Strong dollar or weak dollar, no one wins...
 

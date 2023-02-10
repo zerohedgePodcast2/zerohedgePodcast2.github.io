@@ -9,7 +9,7 @@ length: 998
 datetime: Fri, 10 Feb 2023 12:20:00 +0000
 tags: podcast
 guid: operation-choke-point-20-underway-and-crypto-its-crosshairs-0
-order: 0
+order: 2
 ---
 Detailing the Biden Admin's coordinated, ongoing effort across virtually every US financial regulator to deny crypto firms access to banking services...
 
