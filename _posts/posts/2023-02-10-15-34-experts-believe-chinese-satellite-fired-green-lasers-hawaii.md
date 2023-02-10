@@ -9,7 +9,7 @@ length: 100
 datetime: Fri, 10 Feb 2023 15:34:00 +0000
 tags: podcast
 guid: experts-believe-chinese-satellite-fired-green-lasers-hawaii-0
-order: 0
+order: 1
 ---
 &quot;His colleagues, Dr. Alvaro Ivanoff et al., did a simulation of the trajectory of satellites that have a similar instrument and found a most likely candidate as the ACDL instrument by the Chinese Daqi-1/AEMS satellite.&quot;
 
