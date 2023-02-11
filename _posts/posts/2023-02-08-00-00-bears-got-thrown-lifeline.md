@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "VIX of VIX exploding higher..."
-audio: bears-got-thrown-lifeline-9
+audio: bears-got-thrown-lifeline-10
 category: the-market-ear
 desc: 
 duration: 00:01:55
