@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "what a week"
-audio: max-frustration-market-7
+audio: max-frustration-market-8
 category: the-market-ear
 desc: 
 duration: 00:02:17
