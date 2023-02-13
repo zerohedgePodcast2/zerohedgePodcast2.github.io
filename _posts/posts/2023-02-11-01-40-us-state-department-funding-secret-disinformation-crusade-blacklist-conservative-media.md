@@ -9,7 +9,7 @@ length: 282
 datetime: Sat, 11 Feb 2023 01:40:00 +0000
 tags: podcast
 guid: us-state-department-funding-secret-disinformation-crusade-blacklist-conservative-media-0
-order: 1
+order: 0
 ---
 &quot;Any outfit like that engaged in censorship shouldn't have any contact with the government...&quot;
 
