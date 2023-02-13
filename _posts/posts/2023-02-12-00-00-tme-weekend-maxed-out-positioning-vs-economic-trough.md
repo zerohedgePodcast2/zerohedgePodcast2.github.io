@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "the crowd is very long, but"
-audio: tme-weekend-maxed-out-positioning-vs-economic-trough-7
+audio: tme-weekend-maxed-out-positioning-vs-economic-trough-8
 category: the-market-ear
 desc: 
 duration: 00:02:18
