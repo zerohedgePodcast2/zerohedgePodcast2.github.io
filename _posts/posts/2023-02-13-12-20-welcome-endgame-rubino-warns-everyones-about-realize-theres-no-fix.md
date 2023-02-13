@@ -9,7 +9,7 @@ length: 192
 datetime: Mon, 13 Feb 2023 12:20:00 +0000
 tags: podcast
 guid: welcome-endgame-rubino-warns-everyones-about-realize-theres-no-fix-0
-order: 1
+order: 0
 ---
 &quot;We are in the part of the cycle now where things just get worse, and there is nothing we can do about it...&quot;
 
