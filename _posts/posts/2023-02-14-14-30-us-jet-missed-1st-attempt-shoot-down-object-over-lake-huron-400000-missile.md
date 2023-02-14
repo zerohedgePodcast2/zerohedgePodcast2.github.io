@@ -9,7 +9,7 @@ length: 139
 datetime: Tue, 14 Feb 2023 14:30:00 +0000
 tags: podcast
 guid: us-jet-missed-1st-attempt-shoot-down-object-over-lake-huron-400000-missile-0
-order: 2
+order: 0
 ---
 $800,000 in munitions at taxpayer expense to take out a small 'balloon'....  
 
