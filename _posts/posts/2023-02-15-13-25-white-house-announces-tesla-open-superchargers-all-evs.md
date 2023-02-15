@@ -9,7 +9,7 @@ length: 137
 datetime: Wed, 15 Feb 2023 13:25:00 +0000
 tags: podcast
 guid: white-house-announces-tesla-open-superchargers-all-evs-0
-order: 0
+order: 1
 ---
 &quot;... so that the great American road trip can be electrified.&quot; 
 
