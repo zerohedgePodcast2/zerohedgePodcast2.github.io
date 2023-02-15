@@ -9,7 +9,7 @@ length: 549
 datetime: Wed, 15 Feb 2023 20:45:00 +0000
 tags: podcast
 guid: ohio-chernobyl-east-palestine-town-hall-scrapped-after-residents-report-health-problems-0
-order: 2
+order: 1
 ---
 &quot;There are a lot of people who are very, very scared.&quot; 
 

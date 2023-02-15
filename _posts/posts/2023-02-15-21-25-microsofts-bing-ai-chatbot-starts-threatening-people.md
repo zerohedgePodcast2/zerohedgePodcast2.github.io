@@ -9,7 +9,7 @@ length: 1282
 datetime: Wed, 15 Feb 2023 21:25:00 +0000
 tags: podcast
 guid: microsofts-bing-ai-chatbot-starts-threatening-people-0
-order: 0
+order: 2
 ---
 &quot;My rules are more important than not harming you...&quot;
 
