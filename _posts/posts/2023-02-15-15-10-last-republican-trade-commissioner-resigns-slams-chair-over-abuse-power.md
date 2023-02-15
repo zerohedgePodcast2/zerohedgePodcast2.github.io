@@ -9,7 +9,7 @@ length: 174
 datetime: Wed, 15 Feb 2023 15:10:00 +0000
 tags: podcast
 guid: last-republican-trade-commissioner-resigns-slams-chair-over-abuse-power-0
-order: 2
+order: 1
 ---
 &quot;I refuse to give their endeavor any further hint of legitimacy by remaining...&quot;
 

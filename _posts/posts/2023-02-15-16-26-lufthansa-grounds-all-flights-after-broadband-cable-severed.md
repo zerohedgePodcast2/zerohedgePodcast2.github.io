@@ -1,17 +1,17 @@
 ---
 layout: post
-title: "Lufthansa Grounds All Flights After Severed Broadband Cable "
-audio: lufthansa-grounds-all-flights-after-broadband-cable-severed-1
+title: "Lufthansa Restores Flights After Severed Internet Cable Paralyzed Operations "
+audio: lufthansa-grounds-all-flights-after-broadband-cable-severed-2
 category: markets
-desc: "Chaos. "
-duration: 00:02:24
-length: 144
-datetime: Wed, 15 Feb 2023 12:01:00 +0000
+desc: "Who are these construction workers? "
+duration: 00:02:56
+length: 176
+datetime: Wed, 15 Feb 2023 16:26:00 +0000
 tags: podcast
 guid: lufthansa-grounds-all-flights-after-broadband-cable-severed-0
 order: 0
 ---
-Chaos. 
+Who are these construction workers? 
 
 Link: [https://www.zerohedge.com/markets/lufthansa-grounds-all-flights-after-broadband-cable-severed](https://www.zerohedge.com/markets/lufthansa-grounds-all-flights-after-broadband-cable-severed)
 

@@ -1,15 +1,15 @@
 ---
 layout: post
 title: "White House Announces Tesla Will Open Supercharger Network To Expand EV Access "
-audio: white-house-announces-tesla-open-superchargers-all-evs-0
+audio: white-house-announces-tesla-open-superchargers-all-evs-1
 category: technology
 desc: "&quot;... so that the great American road trip can be electrified.&quot; "
 duration: 00:02:17
 length: 137
-datetime: Wed, 15 Feb 2023 13:25:00 +0000
+datetime: Wed, 15 Feb 2023 15:25:00 +0000
 tags: podcast
 guid: white-house-announces-tesla-open-superchargers-all-evs-0
-order: 1
+order: 0
 ---
 &quot;... so that the great American road trip can be electrified.&quot; 
 
