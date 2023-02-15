@@ -9,7 +9,7 @@ length: 131
 datetime: Wed, 15 Feb 2023 18:55:00 +0000
 tags: podcast
 guid: bankman-frieds-bail-guarantors-revealed-0
-order: 2
+order: 1
 ---
 How the f**k did these Stanford faculty members get so rich as to guarantee that size of a bail?
 
