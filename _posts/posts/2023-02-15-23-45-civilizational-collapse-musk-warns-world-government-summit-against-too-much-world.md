@@ -9,7 +9,7 @@ length: 106
 datetime: Wed, 15 Feb 2023 23:45:00 +0000
 tags: podcast
 guid: civilizational-collapse-musk-warns-world-government-summit-against-too-much-world-0
-order: 1
+order: 0
 ---
 &quot;We just want to have an amount of civilizational diversity...&quot;
 
