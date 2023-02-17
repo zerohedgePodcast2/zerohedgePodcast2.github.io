@@ -9,7 +9,7 @@ length: 179
 datetime: Fri, 17 Feb 2023 14:25:00 +0000
 tags: podcast
 guid: disgusting-ohio-senator-finds-toxic-chemicals-east-palestine-water-0
-order: 2
+order: 0
 ---
 &quot;Even MORE proof that the EPA is LYING to the people of East Palestine...&quot;
 
