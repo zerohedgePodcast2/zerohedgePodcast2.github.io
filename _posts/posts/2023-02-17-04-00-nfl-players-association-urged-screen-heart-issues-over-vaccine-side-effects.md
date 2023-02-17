@@ -9,7 +9,7 @@ length: 139
 datetime: Fri, 17 Feb 2023 04:00:00 +0000
 tags: podcast
 guid: nfl-players-association-urged-screen-heart-issues-over-vaccine-side-effects-0
-order: 1
+order: 0
 ---
 &quot;Safety signals illustrate that the near and long-term health outcomes of the COVID-19 vaccines remain uncertain...&quot;
 
