@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "forced buying has been huge..."
-audio: comfortably-long-8
+audio: comfortably-long-9
 category: the-market-ear
 desc: 
 duration: 00:03:35
