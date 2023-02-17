@@ -9,7 +9,7 @@ length: 158
 datetime: Thu, 16 Feb 2023 14:53:00 +0000
 tags: podcast
 guid: say-hello-snow-white-ex-jpmorgan-exec-emailed-jeffrey-epstein-about-disney-princesses-0
-order: 1
+order: 0
 ---
 &quot;That was fun...&quot;
 

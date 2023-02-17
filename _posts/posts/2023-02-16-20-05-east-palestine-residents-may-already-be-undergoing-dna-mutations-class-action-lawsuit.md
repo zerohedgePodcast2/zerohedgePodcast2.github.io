@@ -9,7 +9,7 @@ length: 272
 datetime: Thu, 16 Feb 2023 20:05:00 +0000
 tags: podcast
 guid: east-palestine-residents-may-already-be-undergoing-dna-mutations-class-action-lawsuit-0
-order: 2
+order: 0
 ---
 &quot;This whole town's infected!&quot;
 
