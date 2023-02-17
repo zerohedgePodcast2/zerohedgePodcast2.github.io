@@ -9,7 +9,7 @@ length: 82
 datetime: Fri, 17 Feb 2023 11:55:00 +0000
 tags: podcast
 guid: world-government-summit-suggests-crisis-events-are-useful-path-globalism-0
-order: 0
+order: 2
 ---
 Bremmer's speech is yet another example of a globalist saying the quiet part out loud...
 
