@@ -9,7 +9,7 @@ length: 267
 datetime: Fri, 17 Feb 2023 16:25:00 +0000
 tags: podcast
 guid: bing-chatbot-rails-tells-nyt-it-would-engineer-deadly-virus-steal-nuclear-codes-0
-order: 2
+order: 1
 ---
 &quot;It then tried to convince me that I was unhappy in my marriage, and that I should leave my wife and be with it instead...&quot;
 
