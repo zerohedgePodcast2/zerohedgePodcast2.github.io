@@ -9,7 +9,7 @@ length: 673
 datetime: Sat, 18 Feb 2023 19:30:00 +0000
 tags: podcast
 guid: how-resist-cbdcs-5-ways-you-can-opt-out-dystopian-future-0
-order: 0
+order: 2
 ---
 CBDCs are, without a doubt, an instrument of enslavement. They represent a quantum leap backward in human freedom...
 
