@@ -9,7 +9,7 @@ length: 238
 datetime: Sun, 19 Feb 2023 01:30:00 +0000
 tags: podcast
 guid: taibbi-us-senator-wanted-zerohedge-banned-twitter-0
-order: 2
+order: 1
 ---
 ...for being a 'bot'!
 
