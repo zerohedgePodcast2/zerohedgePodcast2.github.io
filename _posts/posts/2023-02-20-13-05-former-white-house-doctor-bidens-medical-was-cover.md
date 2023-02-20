@@ -9,7 +9,7 @@ length: 197
 datetime: Mon, 20 Feb 2023 13:05:00 +0000
 tags: podcast
 guid: former-white-house-doctor-bidens-medical-was-cover-0
-order: 0
+order: 2
 ---
 &quot;Biden's ability to think and reason is GONE!&quot;
 

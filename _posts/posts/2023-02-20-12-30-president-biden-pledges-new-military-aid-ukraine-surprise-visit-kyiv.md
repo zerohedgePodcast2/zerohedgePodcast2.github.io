@@ -9,7 +9,7 @@ length: 136
 datetime: Mon, 20 Feb 2023 12:30:00 +0000
 tags: podcast
 guid: president-biden-pledges-new-military-aid-ukraine-surprise-visit-kyiv-0
-order: 0
+order: 1
 ---
 &quot;I am meeting with President Zelenskyy and his team for an extended discussion on our support for Ukraine.&quot;
 
