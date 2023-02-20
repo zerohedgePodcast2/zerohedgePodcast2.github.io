@@ -9,7 +9,7 @@ length: 289
 datetime: Mon, 20 Feb 2023 18:30:00 +0000
 tags: podcast
 guid: trials-should-have-been-stopped-rate-serious-adverse-events-closely-tracks-spike-post-vax-0
-order: 0
+order: 2
 ---
 &quot;The most likely cause of the rise in disabilities is the Covid-19 vaccines...&quot;
 
