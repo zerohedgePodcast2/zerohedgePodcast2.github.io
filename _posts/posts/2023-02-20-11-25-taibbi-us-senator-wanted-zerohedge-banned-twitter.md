@@ -1,15 +1,15 @@
 ---
 layout: post
 title: "Taibbi: US Senator Wanted ZeroHedge Banned From Twitter"
-audio: taibbi-us-senator-wanted-zerohedge-banned-twitter-0
+audio: taibbi-us-senator-wanted-zerohedge-banned-twitter-1
 category: political
 desc: "...for being a 'bot'!"
 duration: 00:03:58
 length: 238
-datetime: Sun, 19 Feb 2023 01:30:00 +0000
+datetime: Mon, 20 Feb 2023 11:25:00 +0000
 tags: podcast
 guid: taibbi-us-senator-wanted-zerohedge-banned-twitter-0
-order: 1
+order: 0
 ---
 ...for being a 'bot'!
 
