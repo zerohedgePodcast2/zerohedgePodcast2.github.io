@@ -1,17 +1,17 @@
 ---
 layout: post
-title: "As China's Top Diplomat Visits Russia, Zelensky Warns Military Alliance Would Spark WW3"
-audio: chinas-top-diplomat-visits-russia-zelensky-warns-military-alliance-would-spark-ww3-0
+title: "Xi Jinping Planning Russia Visit As Ukraine War Shows No Signs Of Slowing"
+audio: chinas-top-diplomat-visits-russia-zelensky-warns-military-alliance-would-spark-ww3-1
 category: geopolitical
-desc: "&quot;Because if China allies itself with Russia, there will be a world war, &amp; I do think that China is aware of that.&quot;"
-duration: 00:02:57
-length: 177
-datetime: Tue, 21 Feb 2023 13:42:00 +0000
+desc: "China wants &quot;to play a more active role aimed at ending the conflict...&quot; "
+duration: 00:04:41
+length: 281
+datetime: Tue, 21 Feb 2023 15:15:00 +0000
 tags: podcast
 guid: chinas-top-diplomat-visits-russia-zelensky-warns-military-alliance-would-spark-ww3-0
 order: 2
 ---
-&quot;Because if China allies itself with Russia, there will be a world war, &amp; I do think that China is aware of that.&quot;
+China wants &quot;to play a more active role aimed at ending the conflict...&quot; 
 
 Link: [https://www.zerohedge.com/geopolitical/chinas-top-diplomat-visits-russia-zelensky-warns-military-alliance-would-spark-ww3](https://www.zerohedge.com/geopolitical/chinas-top-diplomat-visits-russia-zelensky-warns-military-alliance-would-spark-ww3)
 
