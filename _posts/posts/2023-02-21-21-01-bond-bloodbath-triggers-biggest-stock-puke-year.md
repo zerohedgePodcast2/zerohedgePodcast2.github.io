@@ -9,7 +9,7 @@ length: 198
 datetime: Tue, 21 Feb 2023 21:01:00 +0000
 tags: podcast
 guid: bond-bloodbath-triggers-biggest-stock-puke-year-0
-order: 2
+order: 0
 ---
 ...'most shorted' stocks dumped most in 8 months, Dow red YTD...
 
