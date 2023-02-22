@@ -9,7 +9,7 @@ length: 389
 datetime: Wed, 22 Feb 2023 15:00:00 +0000
 tags: podcast
 guid: china-says-ready-join-forces-russia-defend-national-interests-putin-confirms-xi-visit-0
-order: 2
+order: 1
 ---
 Kremlin hails &quot;China's balanced position on the Ukraine issue&quot; as Beijing's top diplomat visits.
 
