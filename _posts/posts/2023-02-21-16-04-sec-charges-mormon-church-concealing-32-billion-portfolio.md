@@ -9,7 +9,7 @@ length: 207
 datetime: Tue, 21 Feb 2023 16:04:00 +0000
 tags: podcast
 guid: sec-charges-mormon-church-concealing-32-billion-portfolio-0
-order: 1
+order: 0
 ---
 &quot;We allege that the LDS Church's investment manager, with the Church's knowledge, went to great lengths to avoid disclosing the Church's investments...&quot;
 

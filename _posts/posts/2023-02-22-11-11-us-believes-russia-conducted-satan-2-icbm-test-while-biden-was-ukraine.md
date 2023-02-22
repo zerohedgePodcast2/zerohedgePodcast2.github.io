@@ -1,15 +1,15 @@
 ---
 layout: post
 title: "US Believes Russia Conducted 'Satan 2' ICBM Test While Biden Was In Ukraine"
-audio: us-believes-russia-conducted-satan-2-icbm-test-while-biden-was-ukraine-0
+audio: us-believes-russia-conducted-satan-2-icbm-test-while-biden-was-ukraine-1
 category: geopolitical
 desc: "Washington was reportedly notified nuke-capable missile test would occur..."
 duration: 00:02:05
 length: 125
-datetime: Wed, 22 Feb 2023 00:20:00 +0000
+datetime: Wed, 22 Feb 2023 11:11:00 +0000
 tags: podcast
 guid: us-believes-russia-conducted-satan-2-icbm-test-while-biden-was-ukraine-0
-order: 2
+order: 0
 ---
 Washington was reportedly notified nuke-capable missile test would occur...
 
