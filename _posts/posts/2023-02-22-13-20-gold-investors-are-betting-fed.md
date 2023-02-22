@@ -9,7 +9,7 @@ length: 364
 datetime: Wed, 22 Feb 2023 13:20:00 +0000
 tags: podcast
 guid: gold-investors-are-betting-fed-0
-order: 0
+order: 2
 ---
 Gold investors are betting the Fed will continue to be negligent with its monetary policy...
 
