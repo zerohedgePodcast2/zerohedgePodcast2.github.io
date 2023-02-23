@@ -9,7 +9,7 @@ length: 246
 datetime: Thu, 23 Feb 2023 16:40:00 +0000
 tags: podcast
 guid: lunatic-forewoman-trump-georgia-case-shocks-media-overt-bias-trump-lawyers-pounce-0
-order: 0
+order: 1
 ---
 &quot;It's a prosecutor's nightmare...&quot;
 

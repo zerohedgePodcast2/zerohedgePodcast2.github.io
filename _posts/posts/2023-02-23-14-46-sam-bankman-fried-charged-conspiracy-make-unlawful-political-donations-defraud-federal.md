@@ -9,7 +9,7 @@ length: 167
 datetime: Thu, 23 Feb 2023 14:46:00 +0000
 tags: podcast
 guid: sam-bankman-fried-charged-conspiracy-make-unlawful-political-donations-defraud-federal-0
-order: 1
+order: 0
 ---
 SBF allegedly made over 300 political contributions to totaling of tens of millions of dollars through straw donors...
 
