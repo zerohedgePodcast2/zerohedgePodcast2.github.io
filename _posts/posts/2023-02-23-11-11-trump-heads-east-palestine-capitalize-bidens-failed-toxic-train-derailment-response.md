@@ -1,15 +1,15 @@
 ---
 layout: post
 title: "&quot;You're Not Forgotten&quot;: Trump Speaks From East Palestine "
-audio: trump-heads-east-palestine-capitalize-bidens-failed-toxic-train-derailment-response-2
+audio: trump-heads-east-palestine-capitalize-bidens-failed-toxic-train-derailment-response-3
 category: markets
 desc: "Where is Biden?"
 duration: 00:03:07
 length: 187
-datetime: Wed, 22 Feb 2023 20:20:00 +0000
+datetime: Thu, 23 Feb 2023 11:11:00 +0000
 tags: podcast
 guid: trump-heads-east-palestine-capitalize-bidens-failed-toxic-train-derailment-response-0
-order: 1
+order: 0
 ---
 Where is Biden?
 
