@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Market does what it does best, frustrate people..."
-audio: market-screws-crowd-7
+audio: market-screws-crowd-8
 category: the-market-ear
 desc: 
 duration: 00:02:32
