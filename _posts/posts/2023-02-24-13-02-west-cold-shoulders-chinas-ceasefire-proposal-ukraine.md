@@ -9,7 +9,7 @@ length: 223
 datetime: Fri, 24 Feb 2023 13:02:00 +0000
 tags: podcast
 guid: west-cold-shoulders-chinas-ceasefire-proposal-ukraine-0
-order: 1
+order: 0
 ---
 Ukraine more optimistic: &quot;The fact that China has started talking about Ukraine and certain signals have been sent is, in general, very good,&quot; Zelensky said.
 
