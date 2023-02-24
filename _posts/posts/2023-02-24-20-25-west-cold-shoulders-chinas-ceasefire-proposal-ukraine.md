@@ -1,17 +1,17 @@
 ---
 layout: post
-title: "The West Cold-Shoulders China's Ceasefire Proposal For Ukraine"
-audio: west-cold-shoulders-chinas-ceasefire-proposal-ukraine-0
+title: "NATO Members Float Plan For Negotiations Amid &quot;Growing Doubts&quot; Ukraine Can Retake Territory"
+audio: west-cold-shoulders-chinas-ceasefire-proposal-ukraine-1
 category: geopolitical
-desc: "Ukraine more optimistic: &quot;The fact that China has started talking about Ukraine and certain signals have been sent is, in general, very good,&quot; Zelensky said."
-duration: 00:03:43
-length: 223
-datetime: Fri, 24 Feb 2023 13:02:00 +0000
+desc: "Germany, France &amp; Britain talk defense pact leading to negotiations with Moscow... "
+duration: 00:06:13
+length: 373
+datetime: Fri, 24 Feb 2023 20:25:00 +0000
 tags: podcast
 guid: west-cold-shoulders-chinas-ceasefire-proposal-ukraine-0
 order: 0
 ---
-Ukraine more optimistic: &quot;The fact that China has started talking about Ukraine and certain signals have been sent is, in general, very good,&quot; Zelensky said.
+Germany, France &amp; Britain talk defense pact leading to negotiations with Moscow... 
 
 Link: [https://www.zerohedge.com/geopolitical/west-cold-shoulders-chinas-ceasefire-proposal-ukraine](https://www.zerohedge.com/geopolitical/west-cold-shoulders-chinas-ceasefire-proposal-ukraine)
 
