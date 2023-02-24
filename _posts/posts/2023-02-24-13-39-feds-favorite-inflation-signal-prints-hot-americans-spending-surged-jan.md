@@ -9,7 +9,7 @@ length: 103
 datetime: Fri, 24 Feb 2023 13:39:00 +0000
 tags: podcast
 guid: feds-favorite-inflation-signal-prints-hot-americans-spending-surged-jan-0
-order: 0
+order: 2
 ---
 ...so much for the linear slide lower in inflation.
 
