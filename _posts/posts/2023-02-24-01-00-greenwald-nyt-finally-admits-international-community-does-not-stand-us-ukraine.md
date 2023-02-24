@@ -9,7 +9,7 @@ length: 202
 datetime: Fri, 24 Feb 2023 01:00:00 +0000
 tags: podcast
 guid: greenwald-nyt-finally-admits-international-community-does-not-stand-us-ukraine-0
-order: 2
+order: 0
 ---
 Meanwhile, G-20 host India is even refusing to call it a &quot;war&quot;...
 
