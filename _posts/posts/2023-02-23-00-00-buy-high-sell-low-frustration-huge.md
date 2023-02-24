@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "is everybody short gamma?"
-audio: buy-high-sell-low-frustration-huge-2
+audio: buy-high-sell-low-frustration-huge-3
 category: the-market-ear
 desc: 
 duration: 00:03:39

@@ -9,7 +9,7 @@ length: 465
 datetime: Fri, 24 Feb 2023 03:20:00 +0000
 tags: podcast
 guid: even-jpmorgan-lashing-out-ridiculous-seasonal-adjustments-key-us-data-0
-order: 2
+order: 1
 ---
 &quot;some alternative seasonal adjustments of the initial claims data show some less favorable changes in filings from recent weeks than the official figures.&quot;
 
