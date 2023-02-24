@@ -9,7 +9,7 @@ length: 240
 datetime: Fri, 24 Feb 2023 19:20:00 +0000
 tags: podcast
 guid: shocked-goldman-trader-was-largest-0dte-block-trade-i-have-ever-seen-0
-order: 2
+order: 0
 ---
 &quot;I have to admit that I was shocked watching the short gamma hedging impact on the market.&quot;
 
