@@ -1,12 +1,12 @@
 ---
 layout: post
 title: "Why One Strategist Believes The Recession Starts By Mid-Year, &quot;That's When The Cutting Begins&quot;"
-audio: why-one-strategist-believes-recession-starts-mid-year-thats-when-cutting-begins-0
+audio: why-one-strategist-believes-recession-starts-mid-year-thats-when-cutting-begins-1
 category: markets
 desc: "The coming &quot;asset crunch&quot; will be enough to create a mild recession mid-year. And if it doesn't, &quot;steadily rising real funding costs deliver a &quot;credit crunch&quot; at some point. Recession is inevitable. And once it occurs, the cutting begins.&quot;"
 duration: 00:06:48
 length: 408
-datetime: Mon, 27 Feb 2023 03:30:00 +0000
+datetime: Mon, 27 Feb 2023 11:11:00 +0000
 tags: podcast
 guid: why-one-strategist-believes-recession-starts-mid-year-thats-when-cutting-begins-0
 order: 0

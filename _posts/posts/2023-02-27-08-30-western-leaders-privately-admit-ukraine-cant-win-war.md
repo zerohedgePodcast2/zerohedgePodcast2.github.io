@@ -9,7 +9,7 @@ length: 380
 datetime: Mon, 27 Feb 2023 08:30:00 +0000
 tags: podcast
 guid: western-leaders-privately-admit-ukraine-cant-win-war-0
-order: 0
+order: 1
 ---
 The private communications are at odds with public statements from Western leaders who routinely say they will continue to support Ukraine for as long as it takes until it achieves victory on the battlefield...
 

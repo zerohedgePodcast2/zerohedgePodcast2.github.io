@@ -9,7 +9,7 @@ length: 106
 datetime: Sun, 26 Feb 2023 16:30:00 +0000
 tags: podcast
 guid: leftists-furious-woody-harrelson-sneaks-anti-vax-mandate-jokes-saturday-night-live-0
-order: 2
+order: 0
 ---
 How did he get away with this?  Well, he's Woody Harrelson.
 

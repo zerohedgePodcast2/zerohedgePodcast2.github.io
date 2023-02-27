@@ -9,7 +9,7 @@ length: 289
 datetime: Sun, 26 Feb 2023 15:30:00 +0000
 tags: podcast
 guid: papers-cancel-dilbert-after-adams-tells-whites-stay-away-blacks-0
-order: 1
+order: 0
 ---
 Cartoonist calls blacks &quot;hate group&quot; after poll finds nearly half don't agree that &quot;it's ok to be white&quot;
 
