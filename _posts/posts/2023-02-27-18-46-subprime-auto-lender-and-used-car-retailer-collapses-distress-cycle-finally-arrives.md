@@ -9,7 +9,7 @@ length: 173
 datetime: Mon, 27 Feb 2023 18:46:00 +0000
 tags: podcast
 guid: subprime-auto-lender-and-used-car-retailer-collapses-distress-cycle-finally-arrives-0
-order: 0
+order: 2
 ---
 Think of it as the infamous New Century domino that signaled the collapse of subprime housing... only for cars.
 

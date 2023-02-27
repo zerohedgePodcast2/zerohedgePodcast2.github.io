@@ -9,7 +9,7 @@ length: 190
 datetime: Mon, 27 Feb 2023 17:09:00 +0000
 tags: podcast
 guid: unmasking-prejudice-professor-denounces-maskless-people-racist-ableist-and-classist-0
-order: 0
+order: 1
 ---
 &quot;...learn your place, sit down, shut up, and listen to us. your white saviorism is killing us. whiteness is a problem. oof...&quot;
 
