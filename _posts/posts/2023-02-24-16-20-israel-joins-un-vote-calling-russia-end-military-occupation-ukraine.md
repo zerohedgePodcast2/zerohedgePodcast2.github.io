@@ -9,7 +9,7 @@ length: 154
 datetime: Fri, 24 Feb 2023 16:20:00 +0000
 tags: podcast
 guid: israel-joins-un-vote-calling-russia-end-military-occupation-ukraine-0
-order: 1
+order: 0
 ---
 And 32 abstentions on key Ukraine war vote, including India... 
 
