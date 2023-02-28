@@ -9,7 +9,7 @@ length: 677
 datetime: Tue, 28 Feb 2023 04:00:00 +0000
 tags: podcast
 guid: whitney-plan-wreck-america-0
-order: 0
+order: 1
 ---
 They can't build a new world order until the old one is destroyed...
 
