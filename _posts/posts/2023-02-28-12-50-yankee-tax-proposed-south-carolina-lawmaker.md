@@ -9,7 +9,7 @@ length: 113
 datetime: Tue, 28 Feb 2023 12:50:00 +0000
 tags: podcast
 guid: yankee-tax-proposed-south-carolina-lawmaker-0
-order: 2
+order: 1
 ---
 &quot;It's a fee for people to catch up with the rest of us...&quot;
 
