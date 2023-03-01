@@ -9,7 +9,7 @@ length: 115
 datetime: Wed, 01 Mar 2023 03:30:00 +0000
 tags: podcast
 guid: chicago-mayor-lori-lightfoot-loses-re-election-0
-order: 0
+order: 2
 ---
 The first Chicago mayor to lose re-election in 40 years...
 
