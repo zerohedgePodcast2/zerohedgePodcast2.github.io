@@ -9,7 +9,7 @@ length: 410
 datetime: Wed, 01 Mar 2023 05:05:00 +0000
 tags: podcast
 guid: escobar-stage-set-hybrid-world-war-iii-0
-order: 0
+order: 1
 ---
 Whatever happens next geopolitically, Russia is at heart a - giant - obstacle on the warmongering path of the Hegemon: the ultimate target is top &quot;threat&quot; China...
 
