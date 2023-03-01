@@ -3,7 +3,7 @@ layout: post
 title: "From soft to no landing...
 
 "
-audio: bull-no-landing-5
+audio: bull-no-landing-6
 category: the-market-ear
 desc: 
 duration: 00:02:30

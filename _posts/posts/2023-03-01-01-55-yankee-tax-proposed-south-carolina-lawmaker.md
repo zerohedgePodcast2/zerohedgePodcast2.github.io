@@ -1,15 +1,15 @@
 ---
 layout: post
 title: "&quot;Yankee Tax&quot; Proposed By South Carolina Lawmaker"
-audio: yankee-tax-proposed-south-carolina-lawmaker-0
+audio: yankee-tax-proposed-south-carolina-lawmaker-1
 category: political
 desc: "&quot;It's a fee for people to catch up with the rest of us...&quot;"
 duration: 00:01:53
 length: 113
-datetime: Tue, 28 Feb 2023 12:50:00 +0000
+datetime: Wed, 01 Mar 2023 01:55:00 +0000
 tags: podcast
 guid: yankee-tax-proposed-south-carolina-lawmaker-0
-order: 1
+order: 0
 ---
 &quot;It's a fee for people to catch up with the rest of us...&quot;
 

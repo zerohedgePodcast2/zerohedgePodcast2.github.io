@@ -9,7 +9,7 @@ length: 286
 datetime: Tue, 28 Feb 2023 14:15:00 +0000
 tags: podcast
 guid: mass-drone-attack-unleashes-chaos-air-raid-sirens-inside-russia-0
-order: 2
+order: 1
 ---
 Russian MoD: &quot;The Kyiv regime attempted to use unmanned aerial vehicles to attack civilian infrastructure...&quot; 
 
