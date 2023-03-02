@@ -9,7 +9,7 @@ length: 195
 datetime: Thu, 02 Mar 2023 15:12:00 +0000
 tags: podcast
 guid: msnbc-reporter-goes-crimea-shocks-viewers-telling-truth-0
-order: 0
+order: 2
 ---
 &quot;Not long ago, these were denounced as Putin talking points.&quot;
 
