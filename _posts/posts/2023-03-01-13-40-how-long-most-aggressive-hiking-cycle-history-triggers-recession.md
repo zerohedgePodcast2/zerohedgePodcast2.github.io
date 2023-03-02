@@ -9,7 +9,7 @@ length: 450
 datetime: Wed, 01 Mar 2023 13:40:00 +0000
 tags: podcast
 guid: how-long-most-aggressive-hiking-cycle-history-triggers-recession-0
-order: 2
+order: 0
 ---
 Not much, as the following 30 charts show...
 
