@@ -9,7 +9,7 @@ length: 184
 datetime: Thu, 02 Mar 2023 14:05:00 +0000
 tags: podcast
 guid: cross-border-terror-attack-russia-involved-dozens-armed-saboteurs-attacking-villages-0
-order: 1
+order: 0
 ---
 &quot;They opened fire on civilians... they saw that there were children in the car,&quot; Putin said.
 
