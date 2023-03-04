@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "don't ignore the rallies..."
-audio: bear-market-rally-2
+audio: bear-market-rally-3
 category: the-market-ear
 desc: 
 duration: 00:03:14
