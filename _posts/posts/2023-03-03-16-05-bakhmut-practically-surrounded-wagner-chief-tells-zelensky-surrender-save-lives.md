@@ -9,7 +9,7 @@ length: 237
 datetime: Fri, 03 Mar 2023 16:05:00 +0000
 tags: podcast
 guid: bakhmut-practically-surrounded-wagner-chief-tells-zelensky-surrender-save-lives-0
-order: 1
+order: 0
 ---
 All main bridges have been blown up...
 

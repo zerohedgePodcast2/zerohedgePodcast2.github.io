@@ -9,7 +9,7 @@ length: 804
 datetime: Sat, 04 Mar 2023 04:40:00 +0000
 tags: podcast
 guid: one-year-later-ukraine-washington-and-nato-got-it-very-wrong-0
-order: 0
+order: 1
 ---
 Those who promoted a need for full-scale war and &quot;no peace until total victory&quot; have been stunningly wrong, and it has proven to be very costly...
 
