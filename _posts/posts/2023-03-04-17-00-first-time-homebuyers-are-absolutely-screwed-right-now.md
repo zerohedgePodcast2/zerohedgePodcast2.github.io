@@ -9,7 +9,7 @@ length: 317
 datetime: Sat, 04 Mar 2023 17:00:00 +0000
 tags: podcast
 guid: first-time-homebuyers-are-absolutely-screwed-right-now-0
-order: 0
+order: 1
 ---
 &quot;We're far from affordability for the masses...&quot;
 
