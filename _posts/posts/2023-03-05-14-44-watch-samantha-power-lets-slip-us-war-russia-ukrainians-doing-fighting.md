@@ -1,15 +1,15 @@
 ---
 layout: post
 title: "Watch: Samantha Power Lets Slip The US Is At War With Russia, But &quot;Ukrainians Doing The Fighting&quot;"
-audio: watch-samantha-power-lets-slip-us-war-russia-ukrainians-doing-fighting-0
+audio: watch-samantha-power-lets-slip-us-war-russia-ukrainians-doing-fighting-1
 category: geopolitical
 desc: "Says the quiet part out loud..."
 duration: 00:01:31
 length: 91
-datetime: Sat, 04 Mar 2023 19:00:00 +0000
+datetime: Sun, 05 Mar 2023 14:44:00 +0000
 tags: podcast
 guid: watch-samantha-power-lets-slip-us-war-russia-ukrainians-doing-fighting-0
-order: 2
+order: 0
 ---
 Says the quiet part out loud...
 
