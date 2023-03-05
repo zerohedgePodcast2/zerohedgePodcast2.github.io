@@ -9,7 +9,7 @@ length: 174
 datetime: Sun, 05 Mar 2023 21:00:00 +0000
 tags: podcast
 guid: fauci-prompted-scientists-fabricate-proximal-origins-paper-ruling-out-lab-leak-select-0
-order: 0
+order: 2
 ---
 &quot;The authors of this paper skewed available evidence to achieve that goal...&quot;
 
