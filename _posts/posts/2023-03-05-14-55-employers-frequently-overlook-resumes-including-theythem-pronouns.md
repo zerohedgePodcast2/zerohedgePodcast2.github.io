@@ -9,7 +9,7 @@ length: 305
 datetime: Sun, 05 Mar 2023 14:55:00 +0000
 tags: podcast
 guid: employers-frequently-overlook-resumes-including-theythem-pronouns-0
-order: 0
+order: 2
 ---
 &quot;It's incredibly disappointing and unethical that many of the hiring managers in our study would disqualify a candidate for being authentic&quot;
 
