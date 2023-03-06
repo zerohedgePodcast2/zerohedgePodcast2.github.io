@@ -9,7 +9,7 @@ length: 246
 datetime: Mon, 06 Mar 2023 16:56:00 +0000
 tags: podcast
 guid: ex-cnn-president-jeff-zucker-ordered-staff-ignore-lab-leak-theory-0
-order: 0
+order: 2
 ---
 Misinformation at its finest...
 
