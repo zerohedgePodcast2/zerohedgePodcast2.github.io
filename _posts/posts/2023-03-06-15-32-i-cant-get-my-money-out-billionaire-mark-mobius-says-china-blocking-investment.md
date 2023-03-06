@@ -1,12 +1,12 @@
 ---
 layout: post
-title: "&quot;I Can't Get My Money Out&quot;: Billionaire Mark Mobius Says China Blocking Investment Outflows"
-audio: i-cant-get-my-money-out-billionaire-mark-mobius-says-china-blocking-investment-0
+title: "China Says 'No Change' In Banking Policies After Mobius Claims Money Trapped"
+audio: i-cant-get-my-money-out-billionaire-mark-mobius-says-china-blocking-investment-1
 category: geopolitical
 desc: "&quot;I would be very, very careful investing in China...&quot;"
-duration: 00:01:36
-length: 96
-datetime: Mon, 06 Mar 2023 11:55:00 +0000
+duration: 00:02:23
+length: 143
+datetime: Mon, 06 Mar 2023 15:32:00 +0000
 tags: podcast
 guid: i-cant-get-my-money-out-billionaire-mark-mobius-says-china-blocking-investment-0
 order: 0
