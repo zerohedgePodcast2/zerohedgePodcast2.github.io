@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "&quot;The stock market is the best economist I know...&quot;"
-audio: cyclicals-just-beginning-7
+audio: cyclicals-just-beginning-8
 category: the-market-ear
 desc: 
 duration: 00:02:08

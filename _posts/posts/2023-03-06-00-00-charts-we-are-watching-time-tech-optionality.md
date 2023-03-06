@@ -1,7 +1,7 @@
 ---
 layout: post
 title: " take advantage of the recent volatility implosion..."
-audio: charts-we-are-watching-time-tech-optionality-5
+audio: charts-we-are-watching-time-tech-optionality-6
 category: the-market-ear
 desc: 
 duration: 00:01:55
