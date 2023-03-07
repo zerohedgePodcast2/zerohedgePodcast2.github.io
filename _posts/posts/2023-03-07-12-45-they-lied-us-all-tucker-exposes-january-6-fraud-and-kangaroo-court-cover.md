@@ -9,7 +9,7 @@ length: 273
 datetime: Tue, 07 Mar 2023 12:45:00 +0000
 tags: podcast
 guid: they-lied-us-all-tucker-exposes-january-6-fraud-and-kangaroo-court-cover-0
-order: 2
+order: 1
 ---
 'Qanon Shaman' had tour guides?
 
