@@ -9,7 +9,7 @@ length: 909
 datetime: Tue, 07 Mar 2023 14:51:00 +0000
 tags: podcast
 guid: what-expect-fed-chair-powells-testimony-0
-order: 2
+order: 0
 ---
 Powell will signal that the Fed is ready to push rates higher than December's dot plot indicated if inflation prints continue to exceed expectations, underscoring the FOMC's resolve to get inflation under control.
 
