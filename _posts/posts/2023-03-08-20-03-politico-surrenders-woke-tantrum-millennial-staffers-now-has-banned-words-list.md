@@ -9,7 +9,7 @@ length: 476
 datetime: Wed, 08 Mar 2023 20:03:00 +0000
 tags: podcast
 guid: politico-surrenders-woke-tantrum-millennial-staffers-now-has-banned-words-list-0
-order: 0
+order: 2
 ---
 The phrase &quot;biological male&quot; is an &quot;anti-trans slur&quot;
 
