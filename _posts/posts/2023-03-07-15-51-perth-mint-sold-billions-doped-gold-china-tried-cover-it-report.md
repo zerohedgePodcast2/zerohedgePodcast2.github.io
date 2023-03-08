@@ -9,7 +9,7 @@ length: 232
 datetime: Tue, 07 Mar 2023 15:51:00 +0000
 tags: podcast
 guid: perth-mint-sold-billions-doped-gold-china-tried-cover-it-report-0
-order: 0
+order: 2
 ---
 ...a &quot;scandal of the highest level&quot;.
 

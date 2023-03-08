@@ -1,15 +1,15 @@
 ---
 layout: post
 title: "'Hawkish' Powell Pummels Stocks, Oil, &amp; Gold; Yield-Curve Collapses As Terminal-Rate Soars"
-audio: hawkish-powell-pummels-stocks-oil-gold-yield-curve-collapses-terminal-rate-soars-0
+audio: hawkish-powell-pummels-stocks-oil-gold-yield-curve-collapses-terminal-rate-soars-1
 category: markets
 desc: "The Fed's terminal rate soaring up to 5.65% (up a stunning 300bps from July 2022 expectations)..."
 duration: 00:04:15
 length: 255
-datetime: Tue, 07 Mar 2023 21:00:00 +0000
+datetime: Tue, 07 Mar 2023 23:55:00 +0000
 tags: podcast
 guid: hawkish-powell-pummels-stocks-oil-gold-yield-curve-collapses-terminal-rate-soars-0
-order: 2
+order: 0
 ---
 The Fed's terminal rate soaring up to 5.65% (up a stunning 300bps from July 2022 expectations)...
 
