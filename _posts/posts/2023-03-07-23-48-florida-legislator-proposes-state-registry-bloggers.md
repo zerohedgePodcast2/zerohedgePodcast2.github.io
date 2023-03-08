@@ -1,12 +1,12 @@
 ---
 layout: post
-title: "Florida Legislator Proposes A State Registry For Bloggers"
-audio: florida-legislator-proposes-state-registry-bloggers-0
+title: "DeSantis Denounces Florida Legislator's Blogger Registry Proposal"
+audio: florida-legislator-proposes-state-registry-bloggers-1
 category: political
 desc: "It is a highly intrusive, dangerous, and presumptively unconstitutional effort..."
-duration: 00:03:08
-length: 188
-datetime: Tue, 07 Mar 2023 21:45:00 +0000
+duration: 00:04:08
+length: 248
+datetime: Tue, 07 Mar 2023 23:48:00 +0000
 tags: podcast
 guid: florida-legislator-proposes-state-registry-bloggers-0
 order: 0
