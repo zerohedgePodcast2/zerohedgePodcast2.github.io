@@ -9,7 +9,7 @@ length: 207
 datetime: Wed, 08 Mar 2023 12:45:00 +0000
 tags: podcast
 guid: biden-wants-tax-hike-high-earners-solve-medicare-funding-crisis-0
-order: 1
+order: 0
 ---
 &quot;The budget I am releasing this week will make the Medicare trust fund solvent beyond 2050 without cutting a penny in benefits...&quot;
 

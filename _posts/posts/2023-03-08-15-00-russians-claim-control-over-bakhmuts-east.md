@@ -9,7 +9,7 @@ length: 257
 datetime: Wed, 08 Mar 2023 15:00:00 +0000
 tags: podcast
 guid: russians-claim-control-over-bakhmuts-east-0
-order: 0
+order: 2
 ---
 &quot;Everything east of the Bakhmutka River is completely under the control of Wagner&quot;
 

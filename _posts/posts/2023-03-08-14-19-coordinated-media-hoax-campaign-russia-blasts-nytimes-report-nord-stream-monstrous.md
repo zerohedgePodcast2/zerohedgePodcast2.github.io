@@ -9,7 +9,7 @@ length: 456
 datetime: Wed, 08 Mar 2023 14:19:00 +0000
 tags: podcast
 guid: coordinated-media-hoax-campaign-russia-blasts-nytimes-report-nord-stream-monstrous-0
-order: 2
+order: 1
 ---
 'how stupid do they think we are?'
 
