@@ -9,7 +9,7 @@ length: 152
 datetime: Thu, 09 Mar 2023 17:59:00 +0000
 tags: podcast
 guid: silicon-valley-bank-center-venture-capital-bubble-suffers-record-47-crash-amid-sudden-0
-order: 0
+order: 2
 ---
 Is the bursting of the tech bubble finally spilling over to the financial system.
 
