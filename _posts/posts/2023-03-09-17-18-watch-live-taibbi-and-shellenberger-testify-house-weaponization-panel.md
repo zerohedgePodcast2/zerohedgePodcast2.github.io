@@ -9,7 +9,7 @@ length: 653
 datetime: Thu, 09 Mar 2023 17:18:00 +0000
 tags: podcast
 guid: watch-live-taibbi-and-shellenberger-testify-house-weaponization-panel-0
-order: 0
+order: 2
 ---
 &quot;Our findings are shocking...&quot;
 

@@ -1,12 +1,12 @@
 ---
 layout: post
-title: "JPMorgan Sues Jes Staley Over Potential Epstein Fallout"
-audio: jpmorgan-sues-jes-staley-over-potential-epstein-fallout-0
+title: "Judge Orders JPMorgan To Produce Dimon Documents In Epstein Case"
+audio: jpmorgan-sues-jes-staley-over-potential-epstein-fallout-1
 category: political
 desc: "The close ties between Staley and Epstein have been at the core of two suits..."
-duration: 00:02:23
-length: 143
-datetime: Wed, 08 Mar 2023 23:40:00 +0000
+duration: 00:03:00
+length: 180
+datetime: Thu, 09 Mar 2023 17:40:00 +0000
 tags: podcast
 guid: jpmorgan-sues-jes-staley-over-potential-epstein-fallout-0
 order: 0
