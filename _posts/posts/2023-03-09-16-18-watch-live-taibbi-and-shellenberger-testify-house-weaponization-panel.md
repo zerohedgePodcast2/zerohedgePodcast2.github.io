@@ -1,15 +1,15 @@
 ---
 layout: post
 title: "Watch Live: Taibbi And Shellenberger Testify Before House 'Weaponization' Panel"
-audio: watch-live-taibbi-and-shellenberger-testify-house-weaponization-panel-0
+audio: watch-live-taibbi-and-shellenberger-testify-house-weaponization-panel-1
 category: political
 desc: "&quot;Our findings are shocking...&quot;"
 duration: 00:10:53
 length: 653
-datetime: Thu, 09 Mar 2023 14:45:00 +0000
+datetime: Thu, 09 Mar 2023 16:18:00 +0000
 tags: podcast
 guid: watch-live-taibbi-and-shellenberger-testify-house-weaponization-panel-0
-order: 1
+order: 0
 ---
 &quot;Our findings are shocking...&quot;
 

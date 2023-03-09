@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "...will boring markets change?"
-audio: got-wings-coming-weeks-7
+audio: got-wings-coming-weeks-8
 category: the-market-ear
 desc: 
 duration: 00:02:05
