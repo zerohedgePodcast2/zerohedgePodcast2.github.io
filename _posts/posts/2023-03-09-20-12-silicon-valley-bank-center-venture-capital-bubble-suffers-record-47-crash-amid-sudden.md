@@ -9,7 +9,7 @@ length: 539
 datetime: Thu, 09 Mar 2023 20:12:00 +0000
 tags: podcast
 guid: silicon-valley-bank-center-venture-capital-bubble-suffers-record-47-crash-amid-sudden-0
-order: 2
+order: 0
 ---
 ...the bank has &quot;ample liquidity to support our clients with one exception: If everyone is telling each other SVB is in trouble that would be a challenge.&quot;
 
