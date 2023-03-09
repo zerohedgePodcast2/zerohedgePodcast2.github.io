@@ -9,7 +9,7 @@ length: 359
 datetime: Wed, 08 Mar 2023 21:40:00 +0000
 tags: podcast
 guid: faucis-lies-exposed-jim-jordan-goes-ballistic-over-scientists-lab-leak-flip-flop-0
-order: 2
+order: 1
 ---
 &quot;And then three months later, Shazam! They get 9 million bucks from Dr. Fauci...&quot;
 
