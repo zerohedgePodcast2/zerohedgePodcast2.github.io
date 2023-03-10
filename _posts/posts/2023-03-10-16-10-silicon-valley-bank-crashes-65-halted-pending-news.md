@@ -9,7 +9,7 @@ length: 375
 datetime: Fri, 10 Mar 2023 16:10:00 +0000
 tags: podcast
 guid: silicon-valley-bank-crashes-65-halted-pending-news-0
-order: 2
+order: 1
 ---
 SVB Is the first insured institution to fail in 2023.
 
