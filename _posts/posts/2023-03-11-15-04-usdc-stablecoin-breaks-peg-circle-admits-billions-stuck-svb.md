@@ -9,7 +9,7 @@ length: 478
 datetime: Sat, 11 Mar 2023 15:04:00 +0000
 tags: podcast
 guid: usdc-stablecoin-breaks-peg-circle-admits-billions-stuck-svb-0
-order: 0
+order: 1
 ---
 &quot;Are you solvent?&quot;
 
