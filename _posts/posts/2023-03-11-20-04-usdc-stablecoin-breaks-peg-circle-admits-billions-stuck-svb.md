@@ -1,15 +1,15 @@
 ---
 layout: post
 title: "USDC 'Stablecoin' Breaks Peg As Circle Admits Billions Stuck With SVB"
-audio: usdc-stablecoin-breaks-peg-circle-admits-billions-stuck-svb-0
+audio: usdc-stablecoin-breaks-peg-circle-admits-billions-stuck-svb-1
 category: crypto
 desc: "&quot;Are you solvent?&quot;"
 duration: 00:07:58
 length: 478
-datetime: Sat, 11 Mar 2023 15:04:00 +0000
+datetime: Sat, 11 Mar 2023 20:04:00 +0000
 tags: podcast
 guid: usdc-stablecoin-breaks-peg-circle-admits-billions-stuck-svb-0
-order: 1
+order: 0
 ---
 &quot;Are you solvent?&quot;
 
