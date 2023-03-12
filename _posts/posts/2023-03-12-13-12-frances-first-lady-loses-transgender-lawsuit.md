@@ -1,15 +1,15 @@
 ---
 layout: post
 title: "France's First Lady Loses Transgender Lawsuit "
-audio: frances-first-lady-loses-transgender-lawsuit-0
+audio: frances-first-lady-loses-transgender-lawsuit-1
 category: political
 desc: "In its decision, consulted by AFP, the court declared void the summons issued by Brigitte Macron for invasion of privacy and image rights..."
 duration: 00:01:41
 length: 101
-datetime: Sun, 12 Mar 2023 11:35:00 +0000
+datetime: Sun, 12 Mar 2023 13:12:00 +0000
 tags: podcast
 guid: frances-first-lady-loses-transgender-lawsuit-0
-order: 1
+order: 0
 ---
 In its decision, consulted by AFP, the court declared void the summons issued by Brigitte Macron for invasion of privacy and image rights...
 
